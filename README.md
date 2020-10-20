@@ -1,8 +1,16 @@
-# (TODO: your game's title)
+# Immobilized by Fear
 
-Author: (TODO: your name)
+Author: Eric Schneider
 
-Design: (TODO: In two sentences or fewer, describe what is new and interesting about your game.)
+Design: In this game, you play a character who is deeply and tragically afraid
+of teal railings. In fact, they're so afraid, they can't even move! All they
+can do is look around and be scared of the cruel God that has put them in this
+terrifying ring of railing-based horror.
+
+To be honest, I had a pretty hefty week and did some poor planning. I figured
+it was worth taking the day to reset my sleep schedule, since the grading allows
+for one dropped small game. I'll be back on my A game next week--interview
+season has been a real nightmare.
 
 Screen Shot:
 
@@ -10,9 +18,9 @@ Screen Shot:
 
 How To Play:
 
-(TODO: describe the controls and (if needed) goals/strategy.)
+Controls are described on screen.
 
-Sources: (TODO: list a source URL for any assets you did not create yourself. Make sure you have a license for the asset.)
+Sources: Assets provided by Jim McCann, as part of the base code.
 
 This game was built with [NEST](NEST.md).
 
